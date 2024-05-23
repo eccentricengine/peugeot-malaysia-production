@@ -1,1 +1,2 @@
-# peugeot-malaysia-production
+# Peugeot Malaysia Production
+Desktop application for the Peugeot Malaysia Production
